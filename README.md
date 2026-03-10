@@ -1,53 +1,30 @@
 # 🚀 Welcome to OpenFunTech Community
 
-**English** | [简体中文](./README_CN.md)
+[简体中文](./README_CN.md) | **English**
+
+#### **Open & Inclusive · Interest-Driven · Hardcore Technology**
+
+## 🏗️ Pillars
+
+| LeoLinux Community | OmniSOC Community | OmniAI Community |
+|------------------|-----------------|----------------|
+| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> Linux Kernel & Virtualization Technology</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> SoC Design & Heterogeneous Simulation</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> AI Chip Intelligent Tools & SDKs</div> |
+| <div style="text-align:center;"><a href='https://github.com/LeoLinux-Community'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniSOC-Platform'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniAI-Tools'><b>Explore →</b></a></div> |
 
 ---
 
-## **Open & Inclusive · Interest-Driven · Hardcore Technology**
+## 📖 About Us
+
+OpenFunTech is a hardcore community focused on chips, system software, and AI.  
+We build heterogeneous simulation platforms, system architecture, and AI toolchains to provide full-stack capabilities from low-level logic to intelligent compute.  
+The community promotes openness, inclusivity, and interest-driven culture, empowering every member to master core technologies and unleash creativity.
 
 ---
 
-### 🏗️ The Pillars
+## 🌐 Vision
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/LeoLinux-Community">
-        <img src="https://via.placeholder.com/600x200/2ea44f/ffffff?text=LeoLinux+Community" alt="LeoLinux" style="width:100%;">
-      </a>
-      <h3 align="center">LeoLinux Community</h3>
-      <p align="center"><b>Focus:</b> Linux Kernel & Virtualization Technology</p>
-      <p align="center"><a href="https://github.com/LeoLinux-Community"><b>Explore →</b></a></p>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/OmniSOC-Platform">
-        <img src="https://via.placeholder.com/600x200/0052cc/ffffff?text=OmniSOC+Community" alt="OmniSOC" style="width:100%;">
-      </a>
-      <h3 align="center">OmniSOC Community</h3>
-      <p align="center"><b>Focus:</b> SoC Design & Heterogeneous Simulation</p>
-      <p align="center"><a href="https://github.com/OmniSOC-Platform"><b>Explore →</b></a></p>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/OmniAI-Tools">
-        <img src="https://via.placeholder.com/600x200/f39f37/ffffff?text=OmniAI+Community" alt="OmniAI" style="width:100%;">
-      </a>
-      <h3 align="center">OmniAI Community</h3>
-      <p align="center"><b>Focus:</b> AI Chip Intelligent Tools & SDKs</p>
-      <p align="center"><a href="https://github.com/OmniAI-Tools"><b>Explore →</b></a></p>
-    </td>
-  </tr>
-</table>
+**Software Defines the World**
 
----
+> We establish **heterogeneous simulation** as the foundation, fortify the **system architecture**, drive **intelligent compute**, and construct **high-fidelity digital twins**, achieving a full-stack closed-loop from logic to perception.
 
-### 🌐 The Vision
-## **Software Defines the World**
-
-**Establishing heterogeneous simulation as the foundation, fortifying the kernel and virtualization infrastructure, driving intelligent compute power, and ultimately building a full-stack closed-loop of high-fidelity digital twins.**
-
----
-
-## **Simulate All · Control the Core · Evolve Intelligence**
-
----
+**Simulate All · Control the Core · Evolve Intelligence**
