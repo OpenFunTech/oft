@@ -1,39 +1,30 @@
 # 🚀 欢迎来到 OpenFunTech 社区
 
-**简体中文** | [English](./README.md)
+[English](./README.md) | **简体中文**
 
-> 致力于构建开放、高效的异构计算与虚拟化技术生态。
+#### **开放包容 · 兴趣驱动 · 硬核技术**
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/LeoLinux-Community">
-        <img src="https://via.placeholder.com/600x200/2ea44f/ffffff?text=LeoLinux+Community" alt="LeoLinux" style="width:100%;">
-      </a>
-      <h3 align="center">LeoLinux 社区</h3>
-      <p align="center">核心聚焦：Linux 内核与虚拟化技术</p>
-      <p align="center"><a href="https://github.com/LeoLinux-Community"><b>进入社区 →</b></a></p>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/OmniSOC-Platform">
-        <img src="https://via.placeholder.com/600x200/0052cc/ffffff?text=OmniSOC+Community" alt="OmniSOC" style="width:100%;">
-      </a>
-      <h3 align="center">OmniSOC 社区</h3>
-      <p align="center">核心聚焦：SoC 设计与异构仿真平台</p>
-      <p align="center"><a href="https://github.com/OmniSOC-Platform"><b>进入社区 →</b></a></p>
-    </td>
-    <td width="33.3%" valign="top">
-      <a href="https://github.com/OmniAI-Tools">
-        <img src="https://via.placeholder.com/600x200/f39f37/ffffff?text=OmniAI+Community" alt="OmniAI" style="width:100%;">
-      </a>
-      <h3 align="center">OmniAI 社区</h3>
-      <p align="center">核心聚焦：AI 芯片智能工具与 SDK</p>
-      <p align="center"><a href="https://github.com/OmniAI-Tools"><b>进入社区 →</b></a></p>
-    </td>
-  </tr>
-</table>
+## 🏗️ 社区支柱
+
+| LeoLinux 社区 | OmniSOC 社区 | OmniAI 社区 |
+|---------------|-------------|-------------|
+| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>Linux 内核与虚拟化技术</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>SoC 设计与异构仿真</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>AI 芯片智能工具与 SDK</div> |
+| <div style="text-align:center;"><a href='https://github.com/LeoLinux-Community'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniSOC-Platform'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniAI-Tools'><b>进入社区 →</b></a></div> |
 
 ---
 
-### 📖 社区简介
-OpenFunTech 是一个跨领域的协同开发组织。在这里，我们通过开源协作与商业探索，连接底层内核、异构计算与 AI 生产力。
+## 📖 关于我们
+
+OpenFunTech 是一个专注芯片、系统软件与 AI 的硬核社区。  
+我们通过构建异构仿真平台、系统架构和 AI 工具链，提供从底层逻辑到智能算力的全栈能力。  
+社区倡导开放、包容、兴趣驱动，让每位成员都能掌握核心技术并发挥创造力。
+
+---
+
+## 🌐 愿景
+
+**软件定义世界**
+
+> 以 **异构仿真** 为基石，夯实 **系统底座**，驱动 **智能算力**，构建 **高保真数字孪生**，实现从逻辑到感知的全栈闭环。
+
+**全面仿真 · 掌控核心 · 智能进化**
