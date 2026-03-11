@@ -2,10 +2,10 @@
 
 [简体中文](./README_CN.md) | **English**
 
-<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
-  <img src="./openfuntech.jpg" alt="OpenFunTech" width="60"/>
-  <b>Open & Inclusive · Fun-Driven · Hardcore Technology</b>
-</div>
+<p align="center">
+  <img src="./openfuntech.jpg" alt="OpenFunTech" width="60"/><br/>
+  <b>Open & Inclusive · Interest-Driven · Hardcore Technology</b>
+</p>
 
 ## 🏗️ Pillars
 
