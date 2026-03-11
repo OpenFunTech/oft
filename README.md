@@ -2,13 +2,16 @@
 
 [简体中文](./README_CN.md) | **English**
 
-#### **Open & Inclusive · Interest-Driven · Hardcore Technology**
+<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
+  <img src="./openfuntech.jpg" alt="OpenFunTech" width="60"/>
+  <b>Open & Inclusive · Fun-Driven · Hardcore Technology</b>
+</div>
 
 ## 🏗️ Pillars
 
 | OmniSOC Community | LeoLinux Community | SagoraAI Community |
-|-----------------|------------------|----------------|
-| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> SoC Design & Heterogeneous Simulation</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> Linux Kernel & Virtualization Technology</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> AI Chip Intelligent Tools & SDKs</div> |
+|:-----------------:|:-----------------:|:-----------------:|
+| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><img src="./omnisoc.jpg" alt="OmniSOC" width="64"/><br/><br/><b>Focus:</b> SoC Design & Heterogeneous Simulation</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><img src="./leolinux.jpg" alt="LeoLinux" width="64"/><br/><br/><b>Focus:</b> Linux Kernel & Virtualization Technology</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><img src="./AI.jpg" alt="SagoraAI" width="64"/><br/><br/><b>Focus:</b> AI Chip Intelligent Tools & SDKs</div> |
 | <div style="text-align:center;"><a href='https://github.com/omnisoc'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/Leo-Linux'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/SagoraAI'><b>Explore →</b></a></div> |
 ---
 
