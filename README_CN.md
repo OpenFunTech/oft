@@ -9,7 +9,7 @@
 | LeoLinux 社区 | OmniSOC 社区 | OmniAI 社区 |
 |---------------|-------------|-------------|
 | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>Linux 内核与虚拟化技术</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>SoC 设计与异构仿真</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>核心：</b>AI 芯片智能工具与 SDK</div> |
-| <div style="text-align:center;"><a href='https://github.com/LeoLinux-Community'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniSOC-Platform'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniAI-Tools'><b>进入社区 →</b></a></div> |
+| <div style="text-align:center;"><a href='https://github.com/LeoLinux'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/OmniSoC'><b>进入社区 →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/SagoraAI'><b>进入社区 →</b></a></div> |
 
 ---
 
