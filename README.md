@@ -6,11 +6,10 @@
 
 ## 🏗️ Pillars
 
-| LeoLinux Community | OmniSOC Community | SagoraAI Community |
-|------------------|-----------------|----------------|
-| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> Linux Kernel & Virtualization Technology</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> SoC Design & Heterogeneous Simulation</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> AI Chip Intelligent Tools & SDKs</div> |
-| <div style="text-align:center;"><a href='https://github.com/Leo-Linux'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/omnisoc'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/SagoraAI'><b>Explore →</b></a></div> |
-
+| OmniSOC Community | LeoLinux Community | SagoraAI Community |
+|-----------------|------------------|----------------|
+| <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> SoC Design & Heterogeneous Simulation</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> Linux Kernel & Virtualization Technology</div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px; text-align:center;"><b>Focus:</b> AI Chip Intelligent Tools & SDKs</div> |
+| <div style="text-align:center;"><a href='https://github.com/omnisoc'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/Leo-Linux'><b>Explore →</b></a></div> | <div style="text-align:center;"><a href='https://github.com/SagoraAI'><b>Explore →</b></a></div> |
 ---
 
 ## 📖 About Us
