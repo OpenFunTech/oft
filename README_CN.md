@@ -3,7 +3,7 @@
 [English](./README.md) | **简体中文**
 
 <p align="center">
-  <img src="./openfuntech.jpg" alt="OpenFunTech" width="60"/><br/>
+  <img src="./icon/openfuntech.jpg" alt="OpenFunTech" width="60"/><br/>
   <b>开放包容 · 兴趣驱动 · 硬核技术</b>
 </p>
 
@@ -11,7 +11,7 @@
 
 | OmniSOC 社区 | LeoLinux 社区 | SagoraAI 社区 |
 |-------------|---------------|-------------|
-| <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./omnisoc.jpg" alt="OmniSOC" width="64"/><br/><br/><b>核心：</b>SoC 设计与异构仿真</p></div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./leolinux.jpg" alt="LeoLinux" width="64"/><br/><br/><b>核心：</b>Linux 内核与虚拟化技术</p></div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./AI.jpg" alt="SagoraAI" width="64"/><br/><br/><b>核心：</b>AI 芯片智能工具与 SDK</p></div> |
+| <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./icon/omnisoc.jpg" alt="OmniSOC" width="64"/><br/><br/><b>核心：</b>SoC 设计与异构仿真</p></div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./icon/leolinux.jpg" alt="LeoLinux" width="64"/><br/><br/><b>核心：</b>Linux 内核与虚拟化技术</p></div> | <div style="border:1px solid #ddd; border-radius:8px; padding:12px;"><p align="center"><img src="./icon/AI.jpg" alt="SagoraAI" width="64"/><br/><br/><b>核心：</b>AI 芯片智能工具与 SDK</p></div> |
 | <p align="center"><a href='https://github.com/OmniSoC'><b>进入社区 →</b></a></p> | <p align="center"><a href='https://github.com/Leo-Linux'><b>进入社区 →</b></a></p> | <p align="center"><a href='https://github.com/SagoraAI'><b>进入社区 →</b></a></p> |
 
 ---
